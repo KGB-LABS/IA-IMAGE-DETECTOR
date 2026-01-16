@@ -24,7 +24,7 @@ Certifique-se de ter o **Python 3** instalado em seu sistema.
 
 ### 2. Arquivos do Projeto
 
-Salve o código que você me enviou em um arquivo chamado, por exemplo, `ai_detector.py`.
+Salve o código que você me enviou em um arquivo chamado, por exemplo, `ai_image_detector.py`.
 
 ### 3. Instalação das Dependências
 
