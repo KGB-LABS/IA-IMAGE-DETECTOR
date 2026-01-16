@@ -1,5 +1,6 @@
-scikit-image
+ggradio
 numpy
+opencv-python
+Pillow
 scipy
-scipy.fftpack
-warnings
+scikit-image
