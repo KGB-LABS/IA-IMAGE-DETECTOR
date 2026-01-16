@@ -50,7 +50,8 @@ scikit-image
 Execute o script Python para iniciar a interface web do Gradio.
 
 ```bash
-python ai_detector.py
+windows: python ai_detector.py
+kali: python3 ai_detector.py
 ```
 
 O servidor será iniciado e você poderá acessar a interface no seu navegador, geralmente em `http://127.0.0.1:8080` (ou o endereço indicado no console).
